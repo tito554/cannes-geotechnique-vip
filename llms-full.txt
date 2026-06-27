@@ -1,0 +1,50 @@
+# Geotechnique — Cannes
+
+> Geotechnical engineering services in Cannes, France.
+
+## Services
+- [Amelioration Sols](https://cannes.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://cannes.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://cannes.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://cannes.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://cannes.geotechnique.vip/chaussee-souple/)
+- [Densite Cone Sable](https://cannes.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://cannes.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://cannes.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://cannes.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://cannes.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://cannes.geotechnique.vip/fondations/)
+- [Geophysique](https://cannes.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://cannes.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://cannes.geotechnique.vip/granulometrie/)
+- [Injections](https://cannes.geotechnique.vip/injections/)
+- [Investigation](https://cannes.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://cannes.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://cannes.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://cannes.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://cannes.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://cannes.geotechnique.vip/liquefaction/)
+- [Masw](https://cannes.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://cannes.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://cannes.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://cannes.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://cannes.geotechnique.vip/pieux/)
+- [Puits Inspection](https://cannes.geotechnique.vip/puits-inspection/)
+- [Radiers](https://cannes.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://cannes.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://cannes.geotechnique.vip/resistivite/)
+- [Semelles](https://cannes.geotechnique.vip/semelles/)
+- [Sismique](https://cannes.geotechnique.vip/sismique/)
+- [Sondages Spt](https://cannes.geotechnique.vip/sondages-spt/)
+- [Surveillance Excavations](https://cannes.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://cannes.geotechnique.vip/talus/)
+- [Triaxial](https://cannes.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://cannes.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://cannes.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://cannes.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Cannes, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
